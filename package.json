@@ -1,0 +1,12 @@
+{
+    "name"        : "incept-router"
+  , "version"     : "0.0.1"
+  , "homepage"    : "http://abru.pt"
+  , "description" : "Incept router"
+  , "author": "Pedro Dias <petermdias@gmail.com>"
+  , "dependencies": {
+      "nano"          : "*",
+      "redis"          : "*"
+    }
+  , "main"    : "./main.js"
+}
